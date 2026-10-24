@@ -40,3 +40,18 @@ I approach software design by first understanding the problem that needs to be s
 . Software design and organization
 ## Key Takeaways
 This course helped me develop a stronger understanding of software testing and quality assurance. One of the most important lessons I learned is that testing should be a continuous part of the development process rather than something performed only after coding is complete. Writing and analyzing tests helped me better understand how software requirements translate into working code. The experience I gained in this course will help me develop more reliable and maintainable software in future academic and professional projects.
+
+# CS-250 Portfolio Reflection
+## Course Artifact
+- CS250_Sprint_Review_and_Retrospective.docx
+## How do I interpret user needs and implement them into a program? How does creating user stories help with this?
+I interpret user needs by carefully reviewing project requirements and focusing on the goals users want to accomplish. Instead of immediately thinking about code, I first try to understand the problem from the user's perspective and determine what value the software should provide. Creating user stories helps make this process easier because user stories describe features from the user's point of view and focus on the outcome they expect. Throughout this course, I learned that user stories help break large requirements into smaller and more manageable pieces of work. They also help ensure that development remains focused on meeting user expectations and delivering meaningful features.
+
+## How do I approach developing programs? What Agile processes do I hope to incorporate into my future development work?
+I approach program development by first understanding the requirements and then dividing the work into smaller tasks that can be completed and evaluated over time. This course helped me understand the value of Agile development and the benefits of working in short iterations rather than trying to complete an entire project at once. Through the SNHU Travel project, I learned how sprint planning, sprint reviews, retrospectives, and backlog management contribute to a more organized and effective development process. In future projects, I hope to continue using iterative development, frequent feedback, and continuous improvement because they help teams adapt to change and produce higher-quality software.
+
+## What does it mean to be a good team member in software development?
+Being a good team member means communicating clearly, supporting others, being open to feedback, and contributing to the success of the entire team. Software development is rarely an individual effort, so collaboration is essential. During this course, I learned that successful teams share information, solve problems together, and remain focused on common goals. A good team member is dependable, respectful of other perspectives, and willing to help when challenges arise. Strong teamwork creates a more productive environment and helps projects succeed.
+
+## Key Takeaways
+This course strengthened my understanding of Agile and Scrum methodologies and how they support the software development lifecycle. I learned how user stories help define requirements, how Scrum events encourage communication and organization, and how continuous feedback leads to improvement throughout a project. One of the most valuable lessons I learned is that successful software development depends not only on technical skills but also on teamwork, communication, and adaptability. These experiences will help me contribute more effectively to future software projects and development teams.
